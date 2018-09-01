@@ -5,5 +5,4 @@ public class Greeter {
 		String name = JOptionPane.showInputDialog("What is your name?");
 		JOptionPane.showMessageDialog(null, "Hi " + name + ".");
 	}
-}
- 
+  
